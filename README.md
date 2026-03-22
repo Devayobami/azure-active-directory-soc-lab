@@ -20,6 +20,10 @@ Although this project does not include direct log analysis, it establishes a **s
 ---
 
 ## Project Architecture
+[
+](https://github.com/Devayobami/azure-active-directory-soc-lab/blob/main/Project-architecture/Project-diagram.png)
+
+
 
 **Environment:**
 
@@ -63,6 +67,8 @@ Although this project does not include direct log analysis, it establishes a **s
    - Prepare for SOC monitoring and SIEM integration
 
 ---
+
+
 ## 📌 Conclusion
 This project provides a foundational understanding of Active Directory in a cloud environment and demonstrates how identity-based activities generate critical security logs.
 
