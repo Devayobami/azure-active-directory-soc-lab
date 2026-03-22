@@ -20,8 +20,8 @@ Although this project does not include direct log analysis, it establishes a **s
 ---
 
 ## Project Architecture
-[
-](https://github.com/Devayobami/azure-active-directory-soc-lab/blob/main/Project-architecture/Project-diagram.png)
+
+https://github.com/Devayobami/azure-active-directory-soc-lab/blob/main/Project-architecture/Project-diagram.png
 
 
 
